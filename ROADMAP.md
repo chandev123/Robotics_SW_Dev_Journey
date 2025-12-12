@@ -27,7 +27,7 @@
 
 ### 💻 Application Development
 - ✅ **Project SignLens** 
-  - **Tech Stack:** Python, PyQt5, OpenCV, OCR
+  - **Tech Stack:** Python, PyQt5, MySQL
   - **Description:** 간판 이미지 인식 및 텍스트 추출을 위한 GUI 애플리케이션 개발
   - **Key Learning:** 사용자 인터페이스(GUI) 설계 및 딥러닝 모델의 실제 서비스(Serving) 연동 경험
 
