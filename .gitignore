@@ -1,8 +1,19 @@
-# User requested ignores
-guidline.md
-
 # Common ignores (Optional but recommended)
+
+# Common ignores
 __pycache__/
 *.py[cod]
+*.so
 .vscode/
+.idea/
 .env
+
+# Build Artifacts
+build/
+devel/
+install/
+log/
+bin/
+lib/
+*.o
+*.a
