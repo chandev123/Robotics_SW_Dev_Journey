@@ -17,3 +17,6 @@ bin/
 lib/
 *.o
 *.a
+
+# Large media files
+2026_01_28_1_Final_Team_Demonstration.mp4
